@@ -1,0 +1,14 @@
+﻿Bài 1 : Khởi tạo cấu trúc dự án bằng Terminal 
+Phần 1:
+* Lỗi thứ nhất có khoảng trắng
+* Lỗi thứ hai khi gõ cd mà tên folder có khoảng trắng phải bỏ trong dấu “ “
+* Lỗi thứ 3 khi tạo chuỗi folder thiếu -p
+* Thông báo lỗi:
+* Không tìm thấy đường đẫn
+* Tên folder có khoảng trắng và ko có dấu “ “
+
+
+Phần 2:
+PS  C:\User\Student> mkdir Shopee_Projects
+PS  C:\User\Student> cd “Shopee Projects”
+PS  C:\User\Student\Shoppee_Project> mkdir -p src/assets/images
